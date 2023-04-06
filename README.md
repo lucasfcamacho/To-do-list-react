@@ -1,3 +1,6 @@
+# Descripcion
+This is an interactive task app developed with React. You can add a task and remove it from the list.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
